@@ -1,5 +1,5 @@
-# 24.5 E.M.S
-## E.M.S (Estación Meteorológica SINTA)
+## E.M.S
+# E.M.S(Estación Meteorológica SINTA)
 
 ![Imagen de la estación meteorológica](ruta/a/la/imagen.jpg)
 
